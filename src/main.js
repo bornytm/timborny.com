@@ -7,10 +7,13 @@ import Icon from 'vue-awesome/components/Icon.vue'
 import VueAnalytics from 'vue-analytics'
 import VueLazyload from 'vue-lazyload'
 
-// Vue.use(VueLazyload)
 Vue.use(VueLazyload, {
-  loading: '/static/loading.gif'
+  preLoad: 2,
+  // error: 'dist/error.png',
+  loading: '/static/loading.gif',
+  attempt: 1
 })
+
 Vue.use(VueAnalytics, {
   id: 'UA-50613674-4',
   router

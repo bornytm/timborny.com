@@ -31,7 +31,7 @@
     <transition name="fade" mode="out-in" appear>
       <router-view></router-view>
     </transition>
-  
+
   </div>
 </template>
 
@@ -63,10 +63,13 @@
 .fade-enter-active, .fade-leave-active {
   transition: opacity 0.8s
 }
-
-.fade-enter, .fade-leave-active {
+.fade-enter, .fade-leave-active, .fade-leave-to {
   opacity: 0
 }
+.fade-enter-to, .fade-leave {
+  opacity: 1;
+}
+
 .icon {
   float: left;
   width: 30px;
