@@ -7,7 +7,7 @@ title: Resume - Tim Borny
 Researcher, developer, photographer, and science/tech generalist.
 <!-- Jack-of-all-trades, master of being a jack-of-all-trades. -->
 
-# Tech skills
+# Techchnical skills
 
 - **Programming	Languages**	(by proficiency):	JavaScript,	Python,	Java,	Bash
 - **Web Dev:**	Vue.js, Git, Heroku, firebase,	Node.js,	Angular.js, LESS/Stylus, webpack, ECMA6, AWS	(s3,	ec2, route53), Django – familiarity	with	other	JS	libraries	and	frameworks
@@ -18,9 +18,15 @@ Researcher, developer, photographer, and science/tech generalist.
 
 # Experience
 
-## **Singularity University**<span class='right'>NASA	Ames	Research	Park, Mountain	View,	CA</span>
+## **Independent Consulting**<span class='right'>2017-present</span>
+**IT / Operations Engineer / Compliance**
+- Software security and privacy risk analysis
+- Personal data request compliance Process creation and management (GDPR, CCPA)
+- Data management and processing
 
-**Contract web development** <span class='right'>December 2017-present</span>
+## **Singularity University**<span class='right'>Mountain	View,	CA</span>
+
+**Contract web development** <span class='right'>December 2017-2018</span>
 - Preformed mobile responsiveness audit and implemented optimizations for [su.org](http://su.org)
 - Updated pages and features by request
 
@@ -33,12 +39,6 @@ Researcher, developer, photographer, and science/tech generalist.
 - Wrote scripts for shuttling data between databases and aggregating data from websites using Python
 - Worked with industry experts in designing pedagogy for adult learners
 - Maintained a high standard of clear and efficient communications internally with co-workers and externally with clients and industry leaders
-<!-- -  as Academics lead for SU's Global Solution Program 2017 -->
-- Researched and developed 'takeaway' documentation for use in SU programs highlighting essential information and summarizing critical concepts taught in SU programs
-<!-- - Researched and evaluated asset management tools for coordination of digital asset creation and distribution to internal and external clients -->
-- Designed educational graphics and images and managed freelance designers throughout their development
-- Assisted in the design and implementation of SU's [Impact Dashboard](http://impact.su.org)
-<!-- <span style='height:160px; display:block'></span> -->
 
 **Teaching	Fellow** <span class='right'>Summer	2013,	Summer	2014</span>
  Energy	and	Environmental	Systems,	Synthesis	and	Convergence
@@ -68,14 +68,14 @@ ISAT	160: Problem	Solving	in	Science	and	Technology and	ISAT	480: Sustainability
 **Photographer (On-Call and	Staff)**,	JMU Marketing	Dept.	and	Creative	Service	<span class='right'>Fall	2010	– Spring	2013</span>
 - Shot a	wide	variety	of	campus	events (guest	speakers,	musical	performances,	graduation,	headshots	etc.) for use in digital and print media
 
-## **Nature	Camp	Inc. 								 								<span class='right'>Vesuvius,	VA**</span>
+## **Nature	Camp	Inc.**								 								<span class='right'>Vesuvius,	VA</span>
 **Camp	Counselor** <span class='right'>Summer	2010,	July-August	2011</span>
 - Designed	and	taught	courses	in	Environmental	Ethics	and	Human	Geography to	middle	and	high schoolers
 
 # Education
 
 BS, Integrated Science and Technology (ABET accredited in applied science), James Madison University
-- Cum Lade, May 2014
+- **GPA:** 3.658/4.0, Cum Lade, May 2014
 
 - **Minors:** Computer Science - Science, Technology, and Society - Music Industry
 
