@@ -15,11 +15,11 @@
       <div class='links no-print'>
         <a class='separator' target='_blank' href='http://github.com/bornytm'>github</a>
         <router-link class='separator' to="/resume">resume</router-link>
-        <a href='mailto:bornytm@gmail.com'>email</a>
+        <a href='mailto:'>contact</a>
       </div>
 
       <div class='yes-print links'>
-        <span class='separator'>bornytm@gmail.com </span>
+        <span class='separator'> </span>
         <span style='padding-left:6px'>+1.978.543.2115</span>
       </div>
 
@@ -29,15 +29,47 @@
     </header>
 
     <transition name="fade" mode="out-in" appear>
-      <router-view></router-view>
+      <router-view class='content'></router-view>
     </transition>
 
+    <div class='foot'>
+      <img class="footicon" src="/static/tb.PNG" /> 
+    </div>
   </div>
 </template>
 
 <style src="../static/index.css"></style>
 <style>
+body {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+  overflow-y: scroll;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+.foot {
+  flex-shrink: 0;
+}
+
+#StayFocusd-infoba {
+  padding: 0;
+}
+
 /* * {outline:1px black solid;} */
+
+.footicon {
+  display: block;
+  width: 20px;
+  padding: 30px;
+  margin: 0 auto;
+}
 .limited {
   position: relative;
   max-width: 700px;
@@ -55,7 +87,7 @@
     }
 }
 #app {
-  min-height: 101vh;
+  min-height: 100vh;
 }
 .title a{
   margin-left:-50px;

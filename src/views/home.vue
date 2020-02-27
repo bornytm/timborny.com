@@ -1,16 +1,19 @@
 <template>
   <div class='sections limited'>
+    <span v-if='false' class='center'>
+      Tim is a science and technology enthusiast, researcher, writer, developer, research, and consultant. Jack of all trades, master of some. Unabashed generalist.
+    </span>
     <span>
       <router-link class='grow' to='/dev'>
       <icon name='terminal' scale='4'></icon>
       <div style='text-align:center'>Web Dev</div>
       </router-link>
     </span>
-    <span v-if='false'>
-      <router-link class='grow' to='/writing'>
+    <span>
+      <a class='grow'href='http://deepbreadth.io' target="_blank">
       <icon name='file-text' scale='4'></icon>
       <div style='text-align:center'>Writing</div>
-      </router-link>
+      </a>
     </span>
     <span>
       <router-link class='grow' to='/photography'>
