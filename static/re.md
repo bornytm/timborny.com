@@ -18,7 +18,15 @@ Researcher, developer, photographer, and science/tech generalist.
 
 # Experience
 
+
 ## **Independent Consulting**<span class='right'>2017-present</span>
+**Data Privacy and Security Operations**
+- Monitor and manage DSAR (Data Subject Access Request) Processes
+- Monitor and manage data breach processes
+- Privacy and security review of websites, applications, and other customer data aqusition locations
+- Draft copy and consult with legal resources on proposed Privacy Policy and Terms of Use updates / improvements
+- Compliance audits and yearly reviews
+
 **IT / Operations Engineer / Compliance**
 - Software security and privacy risk analysis
 - Personal data request compliance Process creation and management (GDPR, CCPA)
@@ -62,7 +70,7 @@ Researcher, developer, photographer, and science/tech generalist.
 
 **Teaching	Assistant**,	Dept.	of	Integrated	Science	and	Technology <span class='right'>Spring	2011	– Spring	2013</span>
 ISAT	160: Problem	Solving	in	Science	and	Technology and	ISAT	480: Sustainability	and	Cognition
-- Graded papers	and	served as	a	resource	for	both	large	and	small	groups	of	students	(5-300 students)
+- Graded papers	and	served as	a	resource	for	both	large	and	small	groups	of	students	(5-300)
 - Developed and	delivered lectures	to	300	students	on	topics	of	critical	thinking	and	intentional	self	development
 
 **Photographer (On-Call and	Staff)**,	JMU Marketing	Dept.	and	Creative	Service	<span class='right'>Fall	2010	– Spring	2013</span>
