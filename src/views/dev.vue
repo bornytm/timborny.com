@@ -5,7 +5,7 @@
     <img class='thumb' src="/static/know.PNG" />
     <div class='description'>
       <span class='title'>knowlo</span>
-      <span><a target="_blank" href="https://github.com/bornytm/knowlo"><img class='gh' src="/static/github.png"></a></span>
+      <span><a target="_blank" href="https://github.com/MintyOrb/knowlo"><img class='gh' src="/static/github.png"></a></span>
       <div>
         <span>Knowlo is a site for aggrgating and organizing educational resources by identifying the concepts they teach and how those concepts relate to one another.</span>
       </div>
@@ -33,7 +33,7 @@
     <img class='thumb' src="/static/gsp.PNG" />
     <div class='description'>
       <span class='title'>Global Solutions Program Directory</span>
-      <!-- <span><a target="_blank" href="https://github.com/bornytm/knowlo"><img class='gh' src="/static/github.png"></a></span> -->
+      <!-- <span><a target="_blank" href="https://github.com/MintyOrb/knowlo"><img class='gh' src="/static/github.png"></a></span> -->
       <div>
         Participants in SU's GSP 16 used this directory to get to know one another before the program. During the program it was used to seek people with skills needed to complete their team projects.
       </div>
@@ -45,7 +45,7 @@
     <img class='thumb' src="/static/run2.jpg" />
     <div class='description'>
       <span class='title'>Run Map</span>
-      <span><a target="_blank" href="https://github.com/bornytm/testProjects/tree/master/runmap"><img class='gh' src="/static/github.png"></a></span>
+      <span><a target="_blank" href="https://github.com/MintyOrb/testProjects/tree/master/runmap"><img class='gh' src="/static/github.png"></a></span>
       <div>
         A simple site for mapping my cumulative running/skiing efforts (as tracked by various exercise apps) on a single map.
       </div>

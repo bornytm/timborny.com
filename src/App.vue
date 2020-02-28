@@ -13,7 +13,7 @@
       <div style="clear: both"></div>
 
       <div class='links no-print'>
-        <a class='separator' target='_blank' href='http://github.com/bornytm'>github</a>
+        <a class='separator' target='_blank' href='http://github.com/MintyOrb'>github</a>
         <router-link class='separator' to="/resume">resume</router-link>
         <a href='mailto:'>contact</a>
       </div>
