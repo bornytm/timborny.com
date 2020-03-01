@@ -12,8 +12,16 @@ article {
   font-size: 18px;
   color:black;
 }
+
 @media print
 {
+   body, html, .limited {
+          width: 100%;
+          margin-top:0%;
+          display:block;
+          height:100%;
+          overflow: visible;
+    }
     .no-print, .no-print *
     {
         display: none !important;

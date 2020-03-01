@@ -7,7 +7,7 @@ title: Resume - Tim Borny
 Researcher, developer, photographer, and science/tech generalist.
 <!-- Jack-of-all-trades, master of being a jack-of-all-trades. -->
 
-# Techchnical skills
+# Technical skills
 
 - **Programming	Languages**	(by proficiency):	JavaScript,	Python,	Java,	Bash
 - **Web Dev:**	Vue.js, Git, Heroku, firebase,	Node.js,	Angular.js, LESS/Stylus, webpack, ECMA6, AWS	(s3,	ec2, route53), Django – familiarity	with	other	JS	libraries	and	frameworks
@@ -21,8 +21,8 @@ Researcher, developer, photographer, and science/tech generalist.
 
 ## **Independent Consulting**<span class='right'>2017-present</span>
 **Data Privacy and Security Operations**
-- Monitor and manage DSAR (Data Subject Access Request) Processes
-- Monitor and manage data breach processes
+- Deploy and manage DSAR (Data Subject Access Request) Processes
+- Deploy and manage data breach processes
 - Privacy and security review of websites, applications, and other customer data aqusition locations
 - Draft copy and consult with legal resources on proposed Privacy Policy and Terms of Use updates / improvements
 - Compliance audits and yearly reviews

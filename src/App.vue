@@ -15,10 +15,11 @@
       <div class='links no-print'>
         <a class='separator' target='_blank' href='http://github.com/MintyOrb'>github</a>
         <router-link class='separator' to="/resume">resume</router-link>
-        <a href='mailto:'>contact</a>
+        <a class='disabled'>contact</a>
       </div>
 
       <div class='yes-print links'>
+        <span >tim@knowlo.org</span>
         <span class='separator'> </span>
         <span style='padding-left:6px'>+1.978.543.2115</span>
       </div>
