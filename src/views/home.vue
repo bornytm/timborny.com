@@ -10,7 +10,7 @@
       </router-link>
     </span>
     <span>
-      <a class='grow'href='http://deepbreadth.io' target="_blank">
+      <a class='grow' href='http://deepbreadth.io' target="_blank">
       <icon name='file-text' scale='4'></icon>
       <div style='text-align:center'>Writing</div>
       </a>
@@ -20,6 +20,12 @@
       <icon name='camera' scale='4' ></icon>
       <div style='text-align:center'>Photography</div>
       </router-link>
+    </span>
+    <span>
+      <a class='grow' href='https://soundcloud.com/deep-breadth' target="_blank">
+      <icon name='music' scale='4' ></icon>
+      <div style='text-align:center'>Music</div>
+      </a>
     </span>
   </div>
 </template>
